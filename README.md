@@ -41,3 +41,6 @@ or use GPU to help you with the process:
 
 ./oclHashcat-plus64.bin -m 100 -a 1 /tmp/linkedin.hashes --outfile=/home/linkedin
 
+Result
+=================
+9481984 passwords
