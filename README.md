@@ -1,4 +1,4 @@
-linkedin_wordlist
+Linkedin Wordlist
 =================
 
 Loads of dumps acequiared via various cracking on the linkedin hashset. 
